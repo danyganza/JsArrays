@@ -7,3 +7,6 @@ let last_user_name = usernames[4];
 console.log (last_user_name);
 let middle_user_age = user_age[2];
 console.log(middle_user_age);
+
+usernames.push('james')
+let last_user_age = user_age.pop(17)
